@@ -13,3 +13,5 @@ Bonus:
 1 - cliccando sul testo dell'item, invertire il valore della proprietà done del todo corrispondente (se done era uguale a false, impostare true e viceversa)
 2 -  aggiungere un altro bottone che permetta la modifica di un task gia' esistente
 Buon lavoro e buon divertimento!
+
+Creo una "lista" cons i ogget
